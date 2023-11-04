@@ -1,0 +1,93 @@
+文献精读笔记如下
+林火碳排放研究概况及展望
+关键词 林火; 碳排放; 排放因子
+摘要：林火是森林生态系统中一种重要的自然干扰，它直接或间接地将森林生态系统固 定的碳重新释放到大气中，从而影响森林生态系统的碳预算和碳平衡。因此，科学准确地计量林火碳排放量对制定科学有效的林火管理措施，充分发挥森林的碳减排增汇效应，减 缓气候变化速率等方面具有重要的意义。本文从林火排放的含碳气体、影响林火碳排放的 因素、林火碳排放估算模型、林火碳排放量的估算四个方面阐述了林火碳排放的最新研究 进展，针对目前林火碳排放研究中存在的问题，提出了今后的研究方向: 1) 森林可燃物燃烧效率的调查和测定; 2) 可燃物载量和林火烈度空间数据库的构建; 3) 林火间接碳排放的计 量; 4) 气候变化条件下，林火碳排放的计量。
+内容：本文从林火排放的含碳气体、影响林火碳排放的因素、林火碳排放估算模型、林火碳排放 量的估算四个方面阐述了林火碳排放的最新研究进 展，最后分析了林火碳排放研究中存在的问题，并对 今后的发展趋势进行了展望，以期为准确估算我国 林火碳排放量提供参考。
+数据：
+1.林火排放的含碳气体
+这些气体 的含量可通过森林可燃物燃烧实验( 胡 海 清 等， 2012b) 或地面调查实验和航空采集烟气( Delmas et al．，1995) 来测定，一般用排放因子，即可燃物燃 烧所排放的某种含碳气体量和燃烧过程中碳排放总 量的比例( Urbanski，2014) 来表示，由于受树种的可 燃性、林型的差异及火烧强度的不同等多种因素的 影响，所测定的排放因子存在较大的差异。
+2.影响林火碳排放的因素
+林火碳排放量通常采用 Seiler 等( 1980) 提出的 公式 Ec = A×B×Cf ×Efc ( Ec 为林火碳排放量，A 为过火 面积，B 为单位面积的地上生物量，Cf 为生物质燃烧 效率，Efc 为 碳 排 放 因 子 ) 来 估 算。
+近年 来发展起来的基于遥感影像的过火区快速提取技术 ( Araújo et al．，2015) 极大地提高了过火面积数据的 获取能力，为林火碳排放的估算提供了丰富的过火 面 积 产 品，如 500 m 分 辨 率 的 MODIS-MCD45 ( Padilla et al．，2014) 、8 km 分辨率的 AVHRR-PAL 产品( Moreno Ｒuiz et al．，2012) 等。
+森林碳密度的高低决定了森林可燃物载量的大 小，从而影响林火烈度和碳排放。美国建立了可燃物特征分类系统 ( FCCS) ( Ottmar et al．，2007 ) 和 可 燃 物 载 量 模 型 ( FLM) ( Lutes et al．，2009) ，它包含了各个层次可燃 物的载量信息，可直接用于林火碳排放的估算。
+生物质的燃烧效率是影响林火碳排放估算准确 性的重要因素( Ｒighi et al．，2009) ，可燃物燃烧效率 的差异，将会使林火碳排放的估算误差达到 30% 以 上( Ottmar，2014) 。
+3.林火碳排放估算模型
+目前应用较广的模型 包括美国林署的 CONSUME 和 FOFEM 模型、加拿大 林署的 CanFIＲE 模型，以及在以上模型基础上发展 起来的 GFED3 模 型 ( French et al．，2011) 和 CBMCFS3 模型( Kurz et al．，2009) 。
+4.林火碳排放量的估算
+计算林火碳排放的问题
+1 碳密度的空间差异
+森林生态系统由于其所处的演替阶段、立地条件和地形等的差异，其碳密度 也存在明显的差异; 同时，目前绝大多数研究仅考虑 林木的生物量碳密度，忽视了地表枯枝落叶和土壤腐殖质层的碳密度，而后者的燃烧则是林火碳排放 的主要来源。
+2.过火面积的差异
+在遥感监测中，由于使用的传感器不同，所得到 的过火面积数据也存在较大差异。LIDAＲ 的 应用可以提高过火面积的估算精度( Asner et al．， 2011) ，但是由于费用很高，只能在小范围内进行。
+3.过火区内林火烈度的差异
+遥感技术 已经被成功地应用到林火烈度的制图中( Miller et al．，2007 ) ，必将会提高林火碳排放估算的准 确性。
+4 森林可燃物的燃烧效率
+虽然有个别研 究在实验室内进行了燃烧实验，但是，由于实验环境 和野外的实际情况差别较大，测定的燃烧效率缺乏 实地验证; 同时，在火烧过程中，林床可燃物的消耗 也存在较大的空间差异，进一步增加了林火碳排放 估算的不确定性( de Groot et al．，2009) ，将野外调查 和表征林火烈度的 dNBＲ 指数相结合可以客观地估 算林火的可燃物消耗状况，从而减少生物质燃烧估 算的不确定性( Hoy et al．，2008) 。
+5.林火间接碳排放的估算
+几乎所有的林火都不能使森林中的生物质全部 通过燃烧排放到大气中，有相当一部分是在森林生 态系统的碳库间发生了转换，使森林生态系统中的 碳库发生再分配，如由活立木转化为枯死木和倒木， 枯死倒木的分解会释放大量的碳，是森林生态系统 碳循环的一个重要环节。
+6.气候变化条件下，林火碳排放的估算
+Depth of Peat Burning and Carbon Loss during an Underground Forest Fire
+Keywords: forest fires, underground fires, peat fires, peatlands, peat, carbon, climate change, greenhouse gases, carbon dioxide
+Abstract—Among forest fires, underground (peat) fires lead in terms of the amount of material burned per unit area and, consequently, the impact on climate change, but they differ in the complexity of assessing the loss of soil carbon and its emissions to the atmosphere. Using the example of the 2010 forest and peat fire in Moscow oblast (an area of 9 ha with a variable original tree-stand composition), the depth of burnout and loss of soil carbon were determined by reconstructing the prefire soil surface along the root collar of stumps, as well as comparing the characteristics of peat on the burned and adjacent areas. The average (median) burnout depth was 15 ± 8 (14) cm, varying in different areas from 13 ± 5 (11) to 20 ± 9 (19) cm. The burnout depth increased with the relative surface height and was maximum in areas with a predominance of aspen. Based on the data of the layer-by-layer determination of the bulk density, ash content, and carbon content in peat, the dependences of the carbon stock on the peat thickness are obtained. Based on them, and according the depth of burning, the carbon losses are estimated, which amount to an average (median) of 9.8 ± 5.57 (9.22) kg m–2 for the burned-out areas, varying in different areas from 8.61 ± 3.75 (7.39) to 12.9 ± 6.18 (12.3) kg m–2, which is equivalent to a one-time emission of almost 400 t СО2 ha—1 and at least 1.5 times higher than the possible release of CO2 into the atmosphere from the loss of carbon biomass of a growing stand with a stem wood stock of more than 280 m3 ha–1. The results correspond to the upper limit of estimates of soil carbon losses obtained by foreign authors and confirm the underestimation of the factor of underground (peat) fires in the boreal zone in comparison with the tropics and in general when considering the influence of forest and peatland ecosystems on the gas composition of the atmosphere and climate.
+以2010年莫斯科州森林和泥炭火烧迹地(面积为9公顷,原始林分组成可变)为例，通过沿伐桩根围重建预烧土壤表面，并对比火烧迹地和邻近地区的泥炭特征，确定了土壤碳的烧毁深度和损失量。平均(中位数)烧灼深度为15 ± 8 ( 14 ) cm，不同区域烧灼深度不同，为13 ± 5 ( 11 ) ~ 20 ± 9 ( 19 ) cm。燃尽深度随地表相对高度的增加而增加，在以山杨为主的地区最大。根据逐层测定泥炭的容重、灰分和碳含量的数据，得到了碳储量与泥炭厚度的关系。根据逐层测定泥炭的容重、灰分和碳含量的数据，得到了碳储量与泥炭厚度的关系。在此基础上，根据火烧深度估算碳损失量，火烧迹地碳损失量的平均值(中位数)为9.8 ± 5.57 ( 9.22 ) kg m-2，不同火烧迹地碳损失量的变化范围为8.61 ± 3.75 ( 7.39 ) ~ 12.9 ± 6.18 ( 12.3 ) kg m-2，相当于至少400 t CO2 ha - 1的一次排放，比树干材积大于280 m3 ha - 1的林分碳生物量损失可能释放到大气中的CO2高1.5倍。这些结果与国外作者估计的土壤碳损失的上限相一致，并证实了在考虑森林和泥炭地生态系统对大气和气候气体组成的影响时，与热带地区相比，北极地区地下(泥炭)火因子的低估。
+气候变化对加利福尼亚州植被分布、碳和火的影响
+Abstract. The objective of this study was to dynamically simulate the response of vegetation distribution, carbon, and fire to the historical climate and to two contrasting scenarios of climate change in California. The results of the simulations for the historical climate compared favorably to independent estimates and observations, but validation of the results was complicated by the lack of land use effects in the model. The response to increasing temperatures under both scenarios was characterized by a shift in dominance from needle-leaved to broad-leaved life-forms and by increases in vegetation productivity, especially in the relatively cool and mesic regions of the state. The simulated response to changes in precipitation were complex, involving not only the effect of changes in soil moisture on vegetation productivity, but also changes in tree–grass competition mediated by fire. Summer months were warmer and persistently dry under both scenarios, so the trends in simulated fire area under both scenarios were primarily a response to changes in vegetation biomass. Total ecosystem carbon increased under both climate scenarios, but the proportions allocated to the wood and grass carbon pools differed. The results of the simulations underscore the potentially large impact of climate change on California ecosystems, and the need for further use and development of dynamic vegetation models using various ensembles of climate change scenarios.
+本研究的目的是动态模拟加利福尼亚州植被分布、碳和火对历史气候和两种不同气候变化情景的响应。对历史气候的模拟结果与独立的估计和观测结果相比是令人满意的，但由于模型中缺乏土地利用效应，结果的验证很复杂。在两种情景下，对温度升高的响应均表现为优势种从针叶生活型向阔叶生活型的转变，以及植被生产力的增加，尤其是在相对凉爽和中等的地区。模拟结果对降水变化的响应是复杂的，不仅涉及土壤水分变化对植被生产力的影响，还涉及火介导的林草竞争的变化。两种情景下夏季月份均较暖且持续干旱，因此两种情景下模拟火烧面积的变化趋势主要是对植被生物量变化的响应。两种气候情景下生态系统总碳均增加，但分配到木碳库和草碳库的比例不同。模拟结果强调了气候变化对加利福尼亚生态系统的潜在巨大影响，以及进一步使用和开发使用各种气候变化情景集合的动态植被模型的必要性。
+ 
+	文献精读笔记如下
+基于 Google Earth Engine 云平台的大兴安岭特大火灾后植被 恢复遥感监测研究
+摘要：林火作为森林生态系统主要的干扰因素之一,能够改变森林生态系统的群落组成、年龄结构、生态系统的能流和养分循环等,进而对区域碳循环、生物多样性、全球气候变化等产生重要影响。遥感技术具有连续时空领域的观测能力,已在林火监测及火后植被恢复等方面得到广泛应用。伴随云计算技术和时间序列分析算法的出现及集成应用,植被恢复过程的监测时空尺度实现了外延与扩展,这对于深入认识和理解区域、国家甚至全球尺度火干扰对植被动态、碳循环过程的影响具有重要的支撑作用。大兴安岭林区是我国森林火灾的高发区和危害最严重的地区。该区域经历了1987年特大火灾后,系统开展了森林植被恢复工作,同时,国家的天然林保护等重点生态工程的实施,也加快了该区域植被的恢复进程。因此,本研究选取大兴安岭特大火灾发生区域漠河市和塔河县作为研究区,在GEE云平台和长时序遥感影像数据支持下,利用最大类间方差法和决策树分类模型,实现研究区逐年火烧迹地的精确提取;结合植被指数、植被净初级生产力产品综合分析1986-2020年火灾区植被恢复状况;基于GEE云平台和Land Trendr算法,实现森林干扰与恢复像元的自动检测与提取,并分析森林干扰与恢复的发生年份、持续时间和强度等时空特征。主要得到以下结论:(1)基于dNBR2指数提取1987年大兴安岭特大火灾的火烧迹地范围并进行火烈度分级。结果表明:过火区域总面积为11375.08km2,不同火烈度区域面积大小依次为:中度火烧>轻度火烧>重度火烧。(2)基于GEE云平台和燃烧面积指数自动提取逐年火烧迹地范围,提取结果的总体分类精度为90.50%。塔河县西北地区、东部地区和漠河市西南地区为火灾高发地区,35年间研究区总过火面积为1401.07 km2,年均过火面积为51.89km2。1986-2010年间研究区常年发生森林火灾,2010年后火灾发生频率减少。(3)长时间序列植被指数变化趋势分析结果表明:轻度火烧区植被NDVI在火后第1年恢复到火前的状态,中度火烧区植被NDVI在火后第2年能恢复到火前的状态,重度火烧区植被NDVI在火后第4年恢复到火前的状态。分析不同坡度的植被指数变化发现,坡度在6°-25°之间的植被更易受火灾影响。平地区域在火后次年植被NDVI恢复到火前的状态,平坡区域的植被NDVI恢复到火前的状态需要2年,缓坡区域的植被NDVI恢复到火前的状态需要4年,斜坡区域的植被NDVI恢复到火前的状态需要2年,陡坡区域的植被NDVI恢复到火前的状态需要3年。分析不同火烧年限的植被指数变化趋势发现,30-35年组植被NDVI的恢复效果最好,其次为20-30年和10-20年,表明植被的火烧发生年份越久远,其恢复年限越长,植被恢复效果越好。此外,不同火烧年限的样地发生火干扰事件后,NDVI均在1-3年内恢复到火前植被状态。(4)2000-2020年间植被NPP总体均值为450.98 g C·m-2。从空间分布来看,呈现南高北低的分布状况。研究区内大部分地区植被NPP处于400-500 g C·m-2之间,低值区主要分布在研究区的西北部和东部。从时间变化上看,21年间植被NPP呈波动上升趋势,年均增加0.96 g C·m-2。不同火烈度区域植被NPP恢复状况表现为:中度火烧区>未火烧区>轻度火烧区>重度火烧区,不同地形条件的植被NPP恢复状况表现为:陡坡区域>斜坡区域>缓坡区域>平坡区域>平地区域。(5)基于GEE云平台和Land Trendr算法实现森林干扰与恢复像元的自动检测与提取,空间分布数据的总体精度为83.33%。研究发现,1986-2020年间森林共受干扰13206.11km2,平均每年受干扰377.32 km2。研究区内森林干扰事件的持续时间主要发生在1-5年范围内,森林损失面积随持续时间增加呈下降趋势。不同程度森林干扰面积占比为轻度干扰>中度干扰>重度干扰。1986-2020年间森林共恢复24038.65km2,平均每年恢复686.82 km2。研究区内森林恢复事件的持续时间主要发生在3-8年与34年,表明植被恢复是个持续且漫长的过程。不同程度森林恢复面积占比为轻度恢复>中度恢复>重度恢复。通过对比分析过火区与非过火区的森林干扰与恢复时空分布格局,研究发现,自1987年特大火灾发生后,1988-2020年间非过火区相比过火区森林干扰和恢复事件发生更为频繁。
+背景：作为地球上最大的陆地生态系统，森林由于多种用途和应用价值，如森林生 产力、生态保护功能和产生的社会经济效益等，其变化对区域乃至全球气候发挥 着不可替代的作用（Alkama 等，2016；何兴元等，2018）。 森林干扰被认为是导 致“显著去除冠层叶面积和活生物量”的重要过程（McDowell 等，2015），在森 林结构和组成变化中发挥重要作用。火干扰是森林生态系统变化的重要因子，会 对原有森林群落的组成、年龄结构、生态系统的能流和养分循环产生重要影响（蔡 文华等，2012）；另一方面，火在维护森林生态平衡、生境质量保护等方面发挥 着重要作用（解伏菊等，2005）。 研究表明，火干扰会对环境和人类产生长期影响，如改变生态系统结构、造成土壤侵蚀、破坏动物栖息地和增加洪水发生的可 能性（Chuvieco 等，2020）。此外，火灾过程会排放大量温室气体，导致全球变 暖（Srivastava 等，2020）。 因此，在当前全球变暖背景下，研究火干扰后植被恢 复动态，对于深入认识和理解区域、国家甚至全球尺度火干扰对植被动态、碳循 环过程的影响具有重要的支撑作用（Ruiz-Gallardo 等，2004；陈宝等，2019）。
+创新点：基于 dNBR2 指数提取火烧迹地。在GEE平台上采用 LandTrendr 算法实现 1986-2020 年森林干扰与恢复像元的自动检测与提取。
+方法：选取 1987 年大兴安岭特大森林火灾的受灾区域漠河市和塔河县作为 研究区，基于 GEE 云平台和长时间序列 Landsat 遥感影像数据，采用 OTSU 算 法和决策树分类模型实现 1986-2020 年逐年火烧迹地高精度提取，并分析研究区 森林火灾发生的时空特征；基于长时间序列的植被指数和 NPP 数据产品分析特 大火灾区域植被恢复过程及特征；在 GEE 云平台支持下，采用 LandTrendr 算法 实现区域尺度植被干扰与恢复的自动识别与快速提取，揭示特大火灾后植被恢复 过程中的干扰和恢复事件的时空特征。
+数据：
+火烧迹地：选择 Landsat 5 TM、Landsat 7 ETM+和 Landasat 8 OLI 地表反射 率 SR 数据集作为 LandTrendr 算法和逐年火烧迹地提取的输入数据。其中，TM 和 ETM+数据集由 LEDAPS （Landsat Ecosystem Disturbance Adaptive Process ing System）模型算法进行辐射定标及大气校正处理，OLI 数据集由 LaSRC（La nd surface Reflectance Code）算法处理得到。在 GEE 云平台上根据“LANDS AT/LT05/C01/T1_SR”、“LANDSAT/LE07/C01/T1_SR”和“ LANDSAT/LC08/C01 /T1_SR”影像集 ID 进行调用后，利用光谱值之间的统计协调函数对 OLI 和 TM /ETM+传感器反射率进行归一化处理。
+植被恢复：选择 NDVI 和 EVI 作为评价植被恢复 状况的光谱指数。采用 2000-2020 年 MOD17A3HGF NPP 数据集评估植被恢复状况。 该数据来自美国国家航空局( NASA) 的陆地过程分布式数据档案中心，空间分 辨率为 500 m。相比 5.5 版本的 MOD17A3 数据集，6.0 版本的 MOD17A3HGF 数 据采用了新的生物属性调查表，提高了 NPP 的估算精度。该数据集已在不同地 区的 NPP 时空变化研究中得到广泛应用。
+辅助数据：DEM 数据、行政区划数据、FIRMS VIIRS 着 火点矢量数据和样地数据。
+1.火烧迹地遥感识别的方法:
+（1）基于植被指数的阈值法：由于森林火灾会破坏植被的结构和组成，从而导致植被的光谱特征发生变化，植被指数能识别火烧后植被与正常植被的光谱 差异，进而将火烧迹地识别出来（孙桂芬，2018）。如朱曦等（2013）对比分析NDVI、BAI、EVI 和 GEMI 等四种植被指数对火烧迹地的分离性，结果发现由可 见光和近红外波段构建的燃烧面积指数 BAI 和全球环境监测指数 GEMI 对过火 区域的分离能力更强。Castillo 等（2020）基于 Landsat 和 Sentinel 多时相数据 （2017-2019 年），采用差分中红外燃烧指数（dMIRBI）、差分归一化燃烧比 （dNBR）、差分归一化燃烧比 2 （dNBR2）和差分近红外指数（dNIR）提取火 烧迹地面积，结果表明，利用 Sentinel-2 影像并采用 dNBR 和 dNBR2 指数提取 火烧迹地结果精度更高。Konkathi 等（ 2021）计算了归一化燃烧比(dNBR)、相对 化燃烧比(RBR)和相对化 dNBR (RdNBR)等指数评价火灾严重程度，并和 MODIS 和 VIIRS 提供的着火点比较准确性，研究发现 RdNBR 更适合火烧区域和火烧严重程度制图。
+（2）基于智能算法的图像分类法：采用各类智能算法，如机器学习、深度 学习等实现火烧迹地的快速分类。如 Bar 等（ 2020）结合多种机器学习分类方法， 基于 Landsat 8 和 Sentinel-2 遥感影像，识别 2016-2019 年印度北阿坎德邦地区火烧迹地，研究表明分类回归树和随机森林识别火烧迹地的精度高于支持向量机。 Seydi 等（2021）利用随机森林、支持向量机和 K 近邻等监督分类算法，基于 Sentinel-2 遥感影像，得到亚马逊地区二值化火烧迹地制图，并结合 MCD12Q1 土 地覆被数据，评估不同土地覆被类型中的火烧迹地面积，结果表明该方法对火烧迹地识别潜力较高，分类精度和 Kappa 系数分别为 91.02%和 0.82，常绿针叶林 为火灾发生频率最高地区。Mohajane 等（ 2021）利用频率比多层感知器(FR-MLP)、 频率比逻辑回归(FR-LR)、频率比分类回归树(FR-CART)、频率比支持向量机(FRSVM)和频率比随机森林(FR-RF) 等多种混合机器学习方法，对地中海地区进行 森林火灾制图，结果表明， RF-FR 在森林火灾预测中的预测效果最好(AUC = 0.989) ，其次是 SVM-FR (AUC = 0.959)、 MLP-FR (AUC = 0.858)、 CART-FR (AUC = 0.847)和 LR-FR (AUC = 0.809)，这些混合模型可以提高森林火灾敏感性 研究的准确性和性能。
+2.常用森林干扰检测算法
+ 
+ 
+3.GEE 云平台界面介绍
+ 
+4.归一化燃烧比：
+ 
+5.OTSU 算法
+ 
+ 
+ 
+ 
+6.Kappa系数
+通常被称为Cohen's Kappa（考恩的卡帕），是一种用于度量分类或分类任务中不同观察者之间的一致性或一致性的统计指标。它通常用于评估两个或更多观察者对相同数据集进行分类或标记的程度，以确定它们的一致性程度。Kappa系数的取值范围通常在-1到1之间。
+Kappa系数的计算基于观察者的分类结果和预期的随机分类之间的差异。具体来说，Kappa系数通过以下公式计算：
+Kappa = (P_o - P_e) / (1 - P_e)Kappa=(Po−Pe)/(1−Pe)
+其中：
+P_oPo（Observed Agreement）是观察到的分类一致性，即观察者之间的分类一致性的实际比例。
+P_ePe（Expected Agreement）是随机分类的预期比例，即假设分类是完全随机的情况下，观察者之间的分类一致性的期望比例。
+Kappa系数的值可以解释如下：
+如果Kappa等于1，表示观察者之间的分类完全一致。
+如果Kappa等于0，表示观察者的分类结果与随机分类没有差异。
+如果Kappa小于0，表示观察者的分类结果不如随机分类，即存在一致性问题。
+Kappa系数的值通常在-1到1之间，其中负值表示观察者之间的分类一致性比随机分类还差。
+Kappa系数在医学诊断、机器学习模型评估和社会科学研究等领域经常被用来评估分类一致性。这是因为它可以考虑到分类中的随机性，而不仅仅是简单地比较观察者之间的分类一致性比例。
+7.趋势分析法
+ 
+8.Mann-Kendall
+属于非参数检验方法（Kendall，1970），和其他参数检验方法 相比，该方法所需样本不必遵从一定的分布，受异常值干扰小，常用于评估趋势 变化的显著性（王爱爱，2018）。本研究利用该方法对趋势分析得到的结果进行 显著性检验，从而在时间尺度上分析研究区植被的显著变化。Mann-Kendall 显著 性检验的表达式为：
+ 
+ 
+Using MODIS-NDVI for the Modeling of Post-Wildfire Vegetation Response as a Function of Environmental Conditions and Pre-Fire Restoration Treatments
+关键词：野火 遥感 恢复 干扰 实验 数据模型
+摘要：火灾后植被响应受地形、气候、植被类型和恢复措施等自然和人为因素的相互作用影响。以往的研究已经分析了这些因素与植被响应的关系，但很少考虑到火灾前恢复措施的影响。我们选择了1999年和2007年之间发生在Bandelier国家保护区（新墨西哥州，美国）和三个相邻的未燃烧的控制区的三个野火。我们使用年际趋势的归一化差异植被指数（NDVI）的时间序列数据来自中分辨率成像光谱仪（MODIS），以评估植被的反应，我们定义为平均潜在的光合活性，通过夏季季风。地形，火灾的严重程度和恢复治疗，并用来解释火灾后植被的反应。我们应用参数（多元线性回归-MLR）和非参数检验（分类和回归树-CART）分析火灾严重程度，地形和火灾前恢复处理（CART中使用的变量）对火灾后植被响应的影响。MLR结果表明，植被响应与环境因子之间存在很强的相关性（p < 0.1），但解释因子在处理之间存在差异。CART结果表明，除了火灾严重程度和地形，火灾前的处理强烈影响火灾后的植被响应。这三个火灾的结果表明，火灾前的恢复条件沿着与当地的环境因素构成的关键过程，修改火灾后植被的反应。
+背景：
+野火是一种极其复杂的现象，其环境条件的数量决定了其规模和生态影响[17]。这些条件因气候和地形而异，因自然资源的管理而异，如为减轻火灾危险而进行的恢复处理。先前的研究表明，
+气候条件与野火规模和严重程度之间存在高度相关性，这取决于土地覆盖、燃料分布和成分以及该地区的位置[18]。然而，每年燃烧面积与气候之间的关联往往呈现非线性关系，大火灾可能是
+平均气候条件微小变化的结果，因为野火可以更好地用个别极端事件来解释[9]。根据对美国西南部的预测情景，本世纪气温将上升，降水将减少[19]。这种气候条件的波动，变暖和变干燥的
+阶段，可能会导致美国西部森林发生更大、更频繁和更严重的火灾[1,20]。一些美国森林的灭火措施导致了燃料的积累，并改变了火情，可能导致更少但更大更严重的火灾[21,22]。另一方面，恢复技术侧重于减轻火灾影响和重建生态过程，如自然火情[23]。其中一些最常见的恢复减轻火灾的技术侧重于森林燃料的减少，要么通过减少划定区域内的树木，要么对战略森林区域进行规定和控制的燃烧，要么通过机械手段清除燃料[24,25]。火灾前人为处理的存在已被证明可以降低火灾的严重程度[4,26,27]，根据这些发现，在经过处理和燃烧的地区和未接受任何处理但也被同一场火灾烧毁的地区，植被的反应会有所不同。在本研究中，我们通过使用遥感工具进一步评估了火灾前处理的效果，这为管理人员和科学家提供了评估和持续监测火灾后植被响应的机会。
+创新点：
+(1)评估一组选定的环境因素对描述火灾后植被响应的影响，(2)检查火灾前恢复处理是否对火灾后植被恢复有显著影响
+ 
+
+
